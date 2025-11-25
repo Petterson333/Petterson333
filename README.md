@@ -62,8 +62,8 @@ const Petterson = {
 <div align="center">
 
 <!-- STATS CARDS -->
-<img src="https://github-readme-stats.vercel.app/api?username=Petterson333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C3CE9&icon_color=6C3CE9&text_color=FFFFFF" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Petterson333&theme=tokyonight&hide_border=true&background=0D1117&ring=6C3CE9&fire=6C3CE9&currStreakLabel=6C3CE9&sideLabels=FFFFFF&dates=888888" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Petterson333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C3CE9&icon_color=6C3CE9&text_color=FFFFFF" height="165" alt="GitHub Stats"/>
 
 <br><br>
 
@@ -73,7 +73,17 @@ const Petterson = {
 <br><br>
 
 <!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petterson333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C3CE9&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Petterson333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C3CE9&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Petterson333&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 
 </div>
 
@@ -88,6 +98,16 @@ const Petterson = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Petterson333/Petterson333/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Petterson333/Petterson333/output/github-snake-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+## 😂 Random Dev Joke
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=0D1117&borderColor=6C3CE9&qColor=6C3CE9&aColor=FFFFFF" alt="Dev Joke"/>
 
 </div>
 
