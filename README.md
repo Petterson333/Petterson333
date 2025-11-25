@@ -1,11 +1,18 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Petterson&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=FiveM%20|%20Web%20Developer&descAlignY=55&descSize=18)
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3CE9&height=200&section=header&text=Petterson&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=FiveM%20%7C%20Web%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<br>
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C3CE9&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AE+FiveM+Developer;%F0%9F%92%BB+Web+Developer;%F0%9F%9B%92+Founder+of+VoidStore.pro;%E2%9A%A1+Building+immersive+experiences" alt="Typing SVG" />
+</a>
 
+<br><br>
+
+<!-- SOCIAL BADGES -->
 <a href="https://voidstore.pro">
-<img src="https://img.shields.io/badge/🛒%20VoidStore.pro-7C3AED?style=for-the-badge" alt="VoidStore"/>
+<img src="https://img.shields.io/badge/🛒_VoidStore.pro-6C3CE9?style=for-the-badge" alt="VoidStore"/>
 </a>
 <a href="https://discord.gg/TONLIEN">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -16,56 +23,71 @@
 
 </div>
 
-<br>
+---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```javascript
+```js
 const Petterson = {
     role: "FiveM & Web Developer",
     location: "Canada 🇨🇦",
-    currently: "Building scripts & web solutions",
+    current: "Building scripts & web solutions",
     shop: "voidstore.pro",
-    stack: ["Lua", "JavaScript", "TypeScript", "React", "Node.js"]
+    passions: ["Clean Code", "Gaming", "Innovation"]
 };
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petterson333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=6" width="320"/>
-
-- 🎮 **FiveM Developer** — Scripts & systems for RP servers
-- 🌐 **Web Developer** — Modern web applications  
-- 🛒 **Founder** of [VoidStore.pro](https://voidstore.pro)
-- ⚡ Building immersive experiences
-
-<br clear="right"/>
+🎮 **FiveM Developer** — Creating immersive scripts and systems for roleplay servers  
+🌐 **Web Developer** — Building modern, responsive web applications  
+🛒 **Founder of [VoidStore.pro](https://voidstore.pro)** — Premium FiveM scripts & resources
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Languages
+<img src="https://skillicons.dev/icons?i=lua,js,ts,html,css&theme=dark" alt="Languages" />
+
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mysql,git,vscode&theme=dark" alt="Tools" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Petterson333&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=FFFFFF&dates=888888" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Petterson333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&hide=contribs" width="49%"/>
+<!-- STATS CARDS -->
+<img src="https://github-readme-stats.vercel.app/api?username=Petterson333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C3CE9&icon_color=6C3CE9&text_color=FFFFFF" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Petterson333&theme=tokyonight&hide_border=true&background=0D1117&ring=6C3CE9&fire=6C3CE9&currStreakLabel=6C3CE9&sideLabels=FFFFFF&dates=888888" height="165" alt="GitHub Streak"/>
+
+<br><br>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Petterson333&bg_color=0D1117&color=6C3CE9&line=6C3CE9&point=FFFFFF&area=true&area_color=6C3CE9&hide_border=true&custom_title=Petterson's%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+
+<br><br>
+
+<!-- TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petterson333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C3CE9&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Petterson333/Petterson333/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Petterson333/Petterson333/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Petterson333/Petterson333/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -76,12 +98,24 @@ const Petterson = {
 <div align="center">
 
 <a href="https://voidstore.pro">
-<img src="https://img.shields.io/badge/🛒%20Visit%20VoidStore.pro-7C3AED?style=for-the-badge" alt="VoidStore"/>
+<img src="https://img.shields.io/badge/🛒_Visit_VoidStore.pro-6C3CE9?style=for-the-badge&logoColor=white" alt="VoidStore"/>
 </a>
 
 **Premium FiveM Scripts & Resources**
 
-`✨ Quality Scripts` `🔄 Regular Updates` `💬 Support Included`
+✨ Quality Scripts • 🔄 Regular Updates • 💬 Support Included
+
+</div>
+
+---
+
+## 💬 Connect With Me
+
+<div align="center">
+
+<a href="https://discord.gg/TONLIEN">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 
 </div>
 
@@ -89,16 +123,9 @@ const Petterson = {
 
 <div align="center">
 
-### 💬 Let's Connect
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3CE9&height=100&section=footer" width="100%"/>
 
-<a href="https://discord.gg/TONLIEN">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-<br><br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-
-<img src="https://komarev.com/ghpvc/?username=Petterson333&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Petterson333&color=6C3CE9&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
